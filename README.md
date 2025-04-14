@@ -4,7 +4,7 @@
 
 ---
 
-![Circuit Diagram](src\circuit.PNG)
+![Circuit Diagram](src/circuit.PNG)
 
 ---
 
